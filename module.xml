@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Export generator="Cache" version="25">
+  <Document name="string-regular-expression.ZPM">
+    <Module>
+      <Name>string-regular-expression</Name>
+      <Version>2.0.0</Version>
+      <Description>string datatype that performs regular expression matching</Description>
+      <Packaging>module</Packaging>
+      <SourcesRoot>src</SourcesRoot>
+      <Resource Name="MasterLib.PKG"/>
+      <Resource Name="Examples.PKG"/>
+    </Module>
+  </Document>
+</Export>
